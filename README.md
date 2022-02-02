@@ -1,2 +1,2 @@
-# azhu.io
+# azhu
 for us business
